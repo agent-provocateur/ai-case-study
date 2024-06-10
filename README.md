@@ -3,7 +3,7 @@
 ## A personal exploration of Midjourney: A lab and open beta AI tool that generates visuals based on text prompts
 <br>
 
->In their words, "***Midjourney** is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human > species. We are a small self-funded team focused on design, human infrastructure, and AI.*" <br>
+>In their words, "***Midjourney** is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. We are a small self-funded team focused on design, human infrastructure, and AI.*"
 
 ![example](/test48459.png) 
 
