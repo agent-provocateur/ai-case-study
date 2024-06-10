@@ -6,7 +6,7 @@
 
 ![example](/test48459.png)
 
-Using the [/imagine] command and the prompt "indigeneous girl with black hair flowing in the air riding a fast running white wilde horse in front of a big oil refinery with white cloud of smoke coming out of a very tall smoke stack, black and white". I was able to generate the image above in less than a minute.
+Using the **[/imagine]** command and the prompt "indigeneous girl with black hair flowing in the air riding a fast running white wilde horse in front of a big oil refinery with white cloud of smoke coming out of a very tall smoke stack, black and white". I was able to generate the image above in less than a minute.
 
 We'll get to the fascinating subject of the ownership of the image above at the end of the case study, keep reading.
 
