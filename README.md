@@ -21,7 +21,7 @@ David Holz has degrees in Applied Mathematics and Physics. He and a small group 
 <br>
 ### New rules
 
-An important issue is ownership of AI generated images. Respected publications, such as The Economist and The Atlantic, have published images that was generated with Midjourney, which brings up the question of who should be credited with these images. Normally, a photograph carries a copyright. However, if an image is AI generated, who owns it? There is enormous controversy around "fake" images and plenty of litigation on the subject.
+An important issue is ownership of AI generated images. Respected publications, such as The Economist and The Atlantic, have published images that were generated with Midjourney, which brings up the question of who should be credited with these images. Normally, a photograph carries a copyright. However, if an image is AI generated, who owns it? There is enormous controversy around "fake" and "copied" images and plenty of litigation on the subject.
 
 Midjourney has addressed ownership as follows: Section 4 of Midjourney's Terms of Service states that, "Midjourney subscribers own all the images they've created." However, they also state that there are exceptions, and they have a channel in place to handle requests to “takedown” images that appear on their website or that have been generated using their software. Also, an AI-powered content moderation system has been put in place starting with Midjourney's version 5.
 <br>
