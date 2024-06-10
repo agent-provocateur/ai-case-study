@@ -26,9 +26,7 @@ Two important points need to be brought forward. One, Section 4 of Midjourney's 
 At this point everything is confusing for some and very clear for others but we are all learning a tremendous deal of new paradigms regardles of our backgrounds. Even Google, as a dominant player in the space, caution us all on "THE RISK OF OVER-RELIANCE" in a sponsored content paper on mainstream publications stating that "-the worry is that a similar erosion of foundational know-how could occur with AI."
 On the other hand, Nicole Ingra, an owner of a marketing agency in Barcelona questions...
 
-## "When I hear collagues being skeptical of AI, I ask them, 'Have you spent time larning the tools?'"
-
-
+## <p style="text-align: center;"> "When I hear collagues being skeptical of AI, I ask them, 'Have you spent time larning the tools?'"</p>
 
 
 
