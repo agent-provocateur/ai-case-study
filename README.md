@@ -2,10 +2,9 @@
 
 ## <p style="text-align: center;">A personal exploration of Midjourney: A lab and open beta AI tool that generates visuals based on text prompts</p>
 <br>
-<br>
+
 In their words, "***Midjourney** is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human > species. We are a small self-funded team focused on design, human infrastructure, and AI.*" 
-<br>
-<br>
+
 ![example](/test48459.png) 
 
 Using the **[/imagine]** command and the prompt "*indigeneous girl with black hair flowing in the air riding a fast running white wilde horse in front of a big oil refinery with white cloud of smoke coming out of a very tall smoke stack, black and white*". I was able to generate the image above in less than a minute.
