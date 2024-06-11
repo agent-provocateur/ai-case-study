@@ -3,7 +3,7 @@
 ## Midjourney: Generating astonishing visuals based on text prompts
 <br>
 
->In their words, "***Midjourney** Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. We are a small self-funded team focused on design, human infrastructure, and AI*"
+>In their words, "***Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. We are a small self-funded team focused on design, human infrastructure, and AI***"
 
 ![example](/test48459.png) 
 
@@ -32,7 +32,7 @@ Everything is confusing for some people and very clear for others, but we are al
 
 From a different perspective, Nicole Ingra who owns a marketing agency in Barcelona, asks:
 
-## <p style="text-align: center;"> "When I hear collagues being skeptical of AI, I ask them, 'Have you spent time larning the tools?'"</p>
+## <p style="text-align: center;"> "When I hear collagues being skeptical of AI, I ask them, 'Have you spent time learning the tools?'"</p>
 
 
 
